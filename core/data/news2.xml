@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<stocknews><news><id>1</id><stockid>1</stockid><title>Some Sample News</title><description>This is a sample news</description><intensity>2</intensity><effectdelay>30</effectdelay><timestamp>2015-02-15 17:29:11</timestamp></news><news><id>2</id><stockid>1</stockid><title>Some Sample News 2</title><description>Beeeeeeeeeeeewwwwwwbs</description><intensity>2</intensity><effectdelay>30</effectdelay><timestamp>2015-02-15 17:30:14</timestamp></news></stocknews>
